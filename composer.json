@@ -1,6 +1,7 @@
 {
   "name": "gtwright/craft-boilerplate",
   "description": "A starter template for Craft CMS",
+  "type":"project",
   "require": {
     "craftcms/cms": "^3.6.4",
     "yiisoft/yii2-redis":"^2.0.6",
